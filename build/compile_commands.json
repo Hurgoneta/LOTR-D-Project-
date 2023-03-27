@@ -1,0 +1,77 @@
+[
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Draws.cpp.obj -c E:\\D++\\src\\Draws.cpp",
+  "file": "E:\\D++\\src\\Draws.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Game.cpp.obj -c E:\\D++\\src\\Game.cpp",
+  "file": "E:\\D++\\src\\Game.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Player.cpp.obj -c E:\\D++\\src\\Player.cpp",
+  "file": "E:\\D++\\src\\Player.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Rogue.cpp.obj -c E:\\D++\\src\\Rogue.cpp",
+  "file": "E:\\D++\\src\\Rogue.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Warrior.cpp.obj -c E:\\D++\\src\\Warrior.cpp",
+  "file": "E:\\D++\\src\\Warrior.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Wizard.cpp.obj -c E:\\D++\\src\\Wizard.cpp",
+  "file": "E:\\D++\\src\\Wizard.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\enemy.cpp.obj -c E:\\D++\\src\\enemy.cpp",
+  "file": "E:\\D++\\src\\enemy.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\enemy_goblin.cpp.obj -c E:\\D++\\src\\enemy_goblin.cpp",
+  "file": "E:\\D++\\src\\enemy_goblin.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\enemy_orc.cpp.obj -c E:\\D++\\src\\enemy_orc.cpp",
+  "file": "E:\\D++\\src\\enemy_orc.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\enemy_skeleton.cpp.obj -c E:\\D++\\src\\enemy_skeleton.cpp",
+  "file": "E:\\D++\\src\\enemy_skeleton.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\item_dagger.cpp.obj -c E:\\D++\\src\\item_dagger.cpp",
+  "file": "E:\\D++\\src\\item_dagger.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\item_sword.cpp.obj -c E:\\D++\\src\\item_sword.cpp",
+  "file": "E:\\D++\\src\\item_sword.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\item_wand.cpp.obj -c E:\\D++\\src\\item_wand.cpp",
+  "file": "E:\\D++\\src\\item_wand.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\main.cpp.obj -c E:\\D++\\src\\main.cpp",
+  "file": "E:\\D++\\src\\main.cpp"
+},
+{
+  "directory": "E:/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IE:/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\scene.cpp.obj -c E:\\D++\\src\\scene.cpp",
+  "file": "E:\\D++\\src\\scene.cpp"
+}
+]
